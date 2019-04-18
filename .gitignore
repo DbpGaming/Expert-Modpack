@@ -19,3 +19,6 @@ optionsof.txt
 optionsshaders.txt
 usercache.json
 usernamecache.json
+*.exe
+Modlist Dumper.exe.config
+Modlist Dumper.pdb
