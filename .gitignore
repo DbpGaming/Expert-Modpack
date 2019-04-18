@@ -30,3 +30,11 @@ config/AppliedEnergistics2/CustomRecipes.cfg
 config/SGCraft/general.yml
 config/SGCraft/generator.yml
 config/brandon3055/ProjectIntelligence/projectintelligence.xml
+*.jar
+*.obj
+libraries/libloader cached libs.txt
+config/splash.properties
+config/AppliedEnergistics2/CustomRecipes.cfg
+config/buildcraft/detailed.properties
+config/customloadingscreen_timings.nbt
+config/brandon3055/contributors.json

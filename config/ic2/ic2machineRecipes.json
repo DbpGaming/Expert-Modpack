@@ -1233,9 +1233,9 @@
   "Cassiterite Dust_1": true,
   "Magnetite Dust_1": true,
   "Bismuth Dust_1": true,
+  "Red Alloy Dust": true,
   "?r?bHigh Quality Hemp Oil": true,
-  "§r§bHigh Quality Hemp Oil": true,
-  "Red Alloy Dust": true
+  "§r§bHigh Quality Hemp Oil": true
  },
  "massfabricatorAmplifier": {
   "ScrapAmplifier": true,
