@@ -1,0 +1,1 @@
+mods.jei.JEI.hide(<wct:wct_creative>);
