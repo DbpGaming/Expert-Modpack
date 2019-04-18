@@ -889,7 +889,8 @@
   "Magnetite Dust_1": true,
   "Bismuthtine Dust_2": true,
   "Cassiterite Dust_2": true,
-  "Magnetite Dust_2": true
+  "Magnetite Dust_2": true,
+  "Small Red Alloy Dust": true
  },
  "extractor": {
   "Coal": true,
@@ -1233,7 +1234,8 @@
   "Magnetite Dust_1": true,
   "Bismuth Dust_1": true,
   "?r?bHigh Quality Hemp Oil": true,
-  "§r§bHigh Quality Hemp Oil": true
+  "§r§bHigh Quality Hemp Oil": true,
+  "Red Alloy Dust": true
  },
  "massfabricatorAmplifier": {
   "ScrapAmplifier": true,
@@ -3520,7 +3522,17 @@
   "Tin Ingot": true,
   "Silver Ingot": true,
   "Lead Ingot_2": true,
-  "Bronze Ingot_4": true
+  "Bronze Ingot_4": true,
+  "Red Alloy Ingot": true,
+  "Red Alloy Ingot_1": true,
+  "Plastic Plate": true,
+  "Red Alloy Rod": true,
+  "Red Alloy Rod_1": true,
+  "Red Alloy Rod_2": true,
+  "Red Alloy Nugget": true,
+  "Red Alloy Nugget_1": true,
+  "Red Alloy Ingot_2": true,
+  "Red Alloy Ingot_3": true
  },
  "washing": {
   "Small Niobium Dust": true,
@@ -3864,7 +3876,10 @@
   "Purified Crushed Tin Ore_2": true,
   "Purified Crushed Silver Ore": true,
   "Purified Crushed Silver Ore_1": true,
-  "Purified Crushed Silver Ore_2": true
+  "Purified Crushed Silver Ore_2": true,
+  "Copper Dust": true,
+  "Tin Dust": true,
+  "Iron Dust": true
  },
  "bloomery": {
   "Refined Iron Bloom": true,

@@ -1,0 +1,1033 @@
+{
+ "Name": "expert",
+ "CustomName": "",
+ "ShowCustomName": false,
+ "ProjectID": -1,
+ "FileID": -1,
+ "MC_Version": "1.12.2",
+ "URL": "",
+ "Mods": [
+  {
+   "ProjectID": 293426,
+   "FileID": 2700516,
+   "Name": "A Lib",
+   "FileName": "alib-1.0.9.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 228404,
+   "FileID": 2683366,
+   "Name": "Actually Additions",
+   "FileName": "ActuallyAdditions-1.12.2-r146.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 236542,
+   "FileID": 2699218,
+   "Name": "Advanced Rocketry",
+   "FileName": "AdvancedRocketry-1.12.2-1.5.0-139-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 315391,
+   "FileID": 2678285,
+   "Name": "Advanced Rocketry Tweaker (AR Tweaker)",
+   "FileName": "ARTweaker-1.12.2-1.0.0.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 314835,
+   "FileID": 2698895,
+   "Name": "Advanced Solars Classic",
+   "FileName": "advancedsolars-1.0.1.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 225194,
+   "FileID": 2491032,
+   "Name": "AE2 Stuff",
+   "FileName": "ae2stuff-0.7.0.4-mc1.12.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 304024,
+   "FileID": 2653753,
+   "Name": "AE2 Wireless Terminal Library",
+   "FileName": "AE2WTLib-1.12.2-1.0.6.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 293425,
+   "FileID": 2700515,
+   "Name": "Alchemistry",
+   "FileName": "alchemistry-0.9.5.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 254284,
+   "FileID": 2697241,
+   "Name": "AmbientSounds 3",
+   "FileName": "AmbientSounds_v3.0.4_mc1.12.2.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 224472,
+   "FileID": 2679415,
+   "Name": "AppleCore",
+   "FileName": "AppleCore-mc1.12.2-3.2.0.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 248787,
+   "FileID": 2496585,
+   "Name": "AppleSkin",
+   "FileName": "AppleSkin-mc1.12-1.0.9.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 223794,
+   "FileID": 2652453,
+   "Name": "Applied Energistics 2",
+   "FileName": "appliedenergistics2-rv6-stable-6.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 246996,
+   "FileID": 2680109,
+   "Name": "B.A.S.E",
+   "FileName": "base-1.12.2-3.12.0.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 261251,
+   "FileID": 2638317,
+   "Name": "Bad Wither No Cookie - Reloaded",
+   "FileName": "badwithernocookiereloaded-1.12.2-3.3.16.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 319404,
+   "FileID": 2698991,
+   "Name": "Barrels, Drums, Storage & More",
+   "FileName": "BarrelsDrumsStorageAndMore-0.0.19.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 227083,
+   "FileID": 2518667,
+   "Name": "Baubles",
+   "FileName": "Baubles-1.12-1.5.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 70496,
+   "FileID": 2518031,
+   "Name": "BdLib",
+   "FileName": "bdlib-1.14.3.12-mc1.12.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 301958,
+   "FileID": 2610791,
+   "Name": "BearCore",
+   "FileName": "BearCore V1.2-1.12.jar.disabled",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 244516,
+   "FileID": 2627215,
+   "Name": "BeeBetterAtBees",
+   "FileName": "beebetteratbees-1.12.2-2.0.3.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 278406,
+   "FileID": 2481852,
+   "Name": "Better Placement",
+   "FileName": "BetterPlacement-1.0.0-1.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 229876,
+   "FileID": 2483393,
+   "Name": "BetterFps",
+   "FileName": "BetterFps-1.4.8.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 309110,
+   "FileID": 2655843,
+   "Name": "Bigger Packets Please",
+   "FileName": "biggerpacketsplz-since1.8-1.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 223525,
+   "FileID": 2676539,
+   "Name": "Binnie's Mods",
+   "FileName": "binnie-mods-1.12.2-2.5.1.188.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 241542,
+   "FileID": 2505277,
+   "Name": "Biome Bundle",
+   "FileName": "Biome_Bundle-1.12.2-v6.1.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 274341,
+   "FileID": 2698691,
+   "Name": "BnBGamingCore",
+   "FileName": "BNBGamingCore-1.12.2-0.11.0.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 229587,
+   "FileID": 2698688,
+   "Name": "BNBGamingLib",
+   "FileName": "BNBGamingLib-1.12.2-2.17.6.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 231382,
+   "FileID": 2697296,
+   "Name": "Brandon's Core",
+   "FileName": "BrandonsCore-1.12.2-2.4.10.198-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 61811,
+   "FileID": 2687203,
+   "Name": "Buildcraft",
+   "FileName": "buildcraft-all-7.99.23.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 298187,
+   "FileID": 2691133,
+   "Name": "Building Gadgets",
+   "FileName": "BuildingGadgets-2.6.8.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 225104,
+   "FileID": 2643351,
+   "Name": "Calculator",
+   "FileName": "calculator-1.12.2-5.0.11-12.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 281791,
+   "FileID": 2534481,
+   "Name": "Career Bees",
+   "FileName": "careerbees-0.4.0.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 282001,
+   "FileID": 2699867,
+   "Name": "CC: Tweaked",
+   "FileName": "cc-tweaked-1.12.2-1.82.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 242818,
+   "FileID": 2618630,
+   "Name": "CodeChicken Lib 1.8.+",
+   "FileName": "CodeChickenLib-1.12.2-3.2.2.353-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 69162,
+   "FileID": 2669253,
+   "Name": "CoFH Core",
+   "FileName": "CoFHCore-1.12.2-4.6.2.25-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 271384,
+   "FileID": 2623091,
+   "Name": "CoFH World",
+   "FileName": "CoFHWorld-1.12.2-1.3.0.6-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 267602,
+   "FileID": 2642375,
+   "Name": "ConnectedTexturesMod",
+   "FileName": "CTM-MC1.12.2-0.3.3.22.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 237065,
+   "FileID": 2652853,
+   "Name": "ContentTweaker",
+   "FileName": "ContentTweaker-1.12.2-4.9.1.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 250398,
+   "FileID": 2522248,
+   "Name": "Controlling",
+   "FileName": "Controlling-3.0.6.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 233071,
+   "FileID": 2562139,
+   "Name": "Crafting Tweaks",
+   "FileName": "CraftingTweaks_1.12.2-8.1.9.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 239197,
+   "FileID": 2693533,
+   "Name": "CraftTweaker",
+   "FileName": "CraftTweaker2-1.12-4.1.17.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 286032,
+   "FileID": 2523545,
+   "Name": "Crates Felt Blu",
+   "FileName": "cfb-1.0.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 272335,
+   "FileID": 2645867,
+   "Name": "Cucumber Library",
+   "FileName": "Cucumber-1.12.2-1.1.3.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 229302,
+   "FileID": 2692651,
+   "Name": "Custom Loading Screen",
+   "FileName": "CustomLoadingScreen-1.12.2-1.4.0.3.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 226406,
+   "FileID": 2638282,
+   "Name": "Custom Main Menu",
+   "FileName": "CustomMainMenu-MC1.12.2-2.0.9.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 278385,
+   "FileID": 2482543,
+   "Name": "Diet Hoppers",
+   "FileName": "diethopper-1.1.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 223565,
+   "FileID": 2697295,
+   "Name": "Draconic Evolution",
+   "FileName": "Draconic-Evolution-1.12.2-2.3.21.342-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 64578,
+   "FileID": 2692118,
+   "Name": "Ender IO",
+   "FileName": "EnderIO-1.12.2-5.0.43.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 304346,
+   "FileID": 2692117,
+   "Name": "Ender IO Endergy",
+   "FileName": "EnderIO-endergy-1.12.2-5.0.43.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 245174,
+   "FileID": 2594243,
+   "Name": "Ender Storage 1.8.+",
+   "FileName": "EnderStorage-1.12.2-2.4.5.135-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 312195,
+   "FileID": 2693174,
+   "Name": "Ender Tweaker",
+   "FileName": "EnderTweaker-1.12.2-1.1.6.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 231868,
+   "FileID": 2699428,
+   "Name": "EnderCore",
+   "FileName": "EnderCore-1.12.2-0.5.57.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 268387,
+   "FileID": 2698394,
+   "Name": "Extended Crafting",
+   "FileName": "ExtendedCrafting-1.12.2-1.5.4.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 225561,
+   "FileID": 2678374,
+   "Name": "Extra Utilities",
+   "FileName": "extrautils2-1.12-1.9.9.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 229708,
+   "FileID": 2583091,
+   "Name": "Farseek",
+   "FileName": "Farseek-1.12-2.3.1.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 299540,
+   "FileID": 2700281,
+   "Name": "FastFurnace",
+   "FileName": "FastFurnace-1.12.2-1.2.3.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 288885,
+   "FileID": 2676550,
+   "Name": "FastWorkbench",
+   "FileName": "FastWorkbench-1.12.2-1.6.1.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 282077,
+   "FileID": 2634217,
+   "Name": "Ferdinand's Flowers",
+   "FileName": "Ferdinand's Flowers-1.12.x-1.10.4.1.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 224728,
+   "FileID": 2669151,
+   "Name": "FloodLights",
+   "FileName": "FloodLights-1.12.2-1.3.2-14.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 278494,
+   "FileID": 2695388,
+   "Name": "FoamFix for Minecraft",
+   "FileName": "foamfix-0.10.5-1.12.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 59751,
+   "FileID": 2684780,
+   "Name": "Forestry",
+   "FileName": "forestry_1.12.2-5.8.2.387.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 309756,
+   "FileID": 2698379,
+   "Name": "Gas Conduits",
+   "FileName": "GasConduits-1.12.2-1.2.1.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 70492,
+   "FileID": 2516215,
+   "Name": "Gendustry",
+   "FileName": "gendustry-1.6.5.8-mc1.12.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 301364,
+   "FileID": 2609434,
+   "Name": "Gendustry JEI Addon",
+   "FileName": "gendustryjei-1.0.2.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 314829,
+   "FileID": 2699245,
+   "Name": "Gravisuit Classic",
+   "FileName": "gravisuit-1.0.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 293536,
+   "FileID": 2691117,
+   "Name": "Hot or Not",
+   "FileName": "HotOrNot-1.12-1.1.2-16.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 224476,
+   "FileID": 2565122,
+   "Name": "Hunger Overhaul",
+   "FileName": "HungerOverhaul-1.12.2-1.3.3.jenkins148.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 319263,
+   "FileID": 2698697,
+   "Name": "Hurt Animation Remover",
+   "FileName": "HurtAnimationRemover-1.12.2-1.0.0.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 242942,
+   "FileID": 2676069,
+   "Name": "IC2 Classic",
+   "FileName": "IC2Classic 1.12-1.5.4.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 311846,
+   "FileID": 2666979,
+   "Name": "IC2 Tweaker",
+   "FileName": "ic2-tweaker-0.2.0.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 302906,
+   "FileID": 2700052,
+   "Name": "IC2C Extras",
+   "FileName": "IC2CExtras-1.1.0-alpha-4.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 231951,
+   "FileID": 2676501,
+   "Name": "Immersive Engineering",
+   "FileName": "ImmersiveEngineering-0.12-89.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 268250,
+   "FileID": 2544919,
+   "Name": "Immersive Petroleum",
+   "FileName": "immersivepetroleum-1.12.2-1.1.9.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 274159,
+   "FileID": 2568579,
+   "Name": "Immersive Tech",
+   "FileName": "immersivetech-1.12-1.3.10.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 266515,
+   "FileID": 2699878,
+   "Name": "Industrial Foregoing",
+   "FileName": "industrialforegoing-1.12.2-1.12.12-236.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 251396,
+   "FileID": 2537265,
+   "Name": "InfinityLib",
+   "FileName": "infinitylib-1.12.0.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 284007,
+   "FileID": 2687380,
+   "Name": "Inspirations",
+   "FileName": "Inspirations-1.12.2-0.2.4.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 236226,
+   "FileID": 2532011,
+   "Name": "Iron Tanks",
+   "FileName": "irontanks-2.1.0-beta.5.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 232791,
+   "FileID": 2432201,
+   "Name": "It's the little things",
+   "FileName": "itlt-1.12-1.0.0.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 266936,
+   "FileID": 2695109,
+   "Name": "JAOPCA",
+   "FileName": "JAOPCA-1.12.2-2.2.8.101.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 248370,
+   "FileID": 2490058,
+   "Name": "JEI Bees",
+   "FileName": "jeibees-0.9.0.5-mc1.12.2.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 238222,
+   "FileID": 2699252,
+   "Name": "Just Enough Items (JEI)",
+   "FileName": "jei_1.12.2-4.15.0.277.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 307416,
+   "FileID": 2640024,
+   "Name": "Just Sleep",
+   "FileName": "JustSleep-1.0.0.1.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 226013,
+   "FileID": 2680316,
+   "Name": "Kitsu's ForgeCraft",
+   "FileName": "ForgeCraft-1.6.44.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 241895,
+   "FileID": 2611981,
+   "Name": "KleeSlabs",
+   "FileName": "KleeSlabs_1.12.2-5.4.11.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 263905,
+   "FileID": 2553810,
+   "Name": "Lapis Stays in the Enchanting Table",
+   "FileName": "EnchantingTable-1.12-1.1.3.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 236541,
+   "FileID": 2696000,
+   "Name": "LibVulpes",
+   "FileName": "LibVulpes-1.12.2-0.4.0-54-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 228513,
+   "FileID": 2432420,
+   "Name": "Loading Profiler",
+   "FileName": "LoadingProfiler-MC1.12-1.3.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 312688,
+   "FileID": 2690466,
+   "Name": "LoadingTips",
+   "FileName": "LoadingTips-1.12.2-1.1.0.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 255257,
+   "FileID": 2688260,
+   "Name": "LootTweaker",
+   "FileName": "LootTweaker-1.12.2-0.0.9.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 310375,
+   "FileID": 2683258,
+   "Name": "Main Menu Scale",
+   "FileName": "MainMenuScale-1.3.2.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 74924,
+   "FileID": 2693483,
+   "Name": "Mantle",
+   "FileName": "Mantle-1.12-1.3.3.49.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 233105,
+   "FileID": 2660396,
+   "Name": "McJtyLib",
+   "FileName": "mcjtylib-1.12-3.1.1.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 268560,
+   "FileID": 2699534,
+   "Name": "Mekanism",
+   "FileName": "Mekanism-1.12.2-9.7.1.371.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 268566,
+   "FileID": 2699536,
+   "Name": "Mekanism Generators",
+   "FileName": "MekanismGenerators-1.12.2-9.7.1.371.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 293110,
+   "FileID": 2603650,
+   "Name": "MekaTweaker",
+   "FileName": "mekatweaker-1.12-1.1.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 290145,
+   "FileID": 2662345,
+   "Name": "MetalChests",
+   "FileName": "MetalChests-v4.0.1.g01955d6.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 292992,
+   "FileID": 2692698,
+   "Name": "Modpack Configuration Checker",
+   "FileName": "Modpack Configuration Checker-1.12.2-v1.8.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 220954,
+   "FileID": 2693544,
+   "Name": "ModTweaker",
+   "FileName": "modtweaker-4.0.17.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 250226,
+   "FileID": 2574459,
+   "Name": "More Bees",
+   "FileName": "morebees-1.12.2-2.0.1.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 60089,
+   "FileID": 2671937,
+   "Name": "Mouse Tweaks",
+   "FileName": "MouseTweaks-2.10-mc1.12.2.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 253211,
+   "FileID": 2684561,
+   "Name": "MTLib",
+   "FileName": "MTLib-3.0.6.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 284904,
+   "FileID": 2568865,
+   "Name": "No Recipe Book",
+   "FileName": "noRecipeBook_v1.2.2formc1.12.2.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 267721,
+   "FileID": 2687428,
+   "Name": "NoDamI (No Damage Immunity)",
+   "FileName": "nodami-1.12.2-1.2.1.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 226254,
+   "FileID": 2697472,
+   "Name": "NuclearCraft",
+   "FileName": "NuclearCraft-2.15-1.12.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 265894,
+   "FileID": 2542614,
+   "Name": "Open Terrain Generator (OTG)",
+   "FileName": "OpenTerrainGenerator-1.12.2 - v6.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 228816,
+   "FileID": 2699056,
+   "Name": "OpenBlocks",
+   "FileName": "OpenBlocks-1.12.2-1.8.1.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 228815,
+   "FileID": 2699055,
+   "Name": "OpenModsLib",
+   "FileName": "OpenModsLib-1.12.2-0.12.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 255232,
+   "FileID": 2699293,
+   "Name": "p455w0rd's Library",
+   "FileName": "p455w0rdslib-1.12.2-2.1.44.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 267934,
+   "FileID": 2566522,
+   "Name": "Passable Leaves",
+   "FileName": "PassableLeaves-1.12.2-2.0.0.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 281849,
+   "FileID": 2696044,
+   "Name": "PneumaticCraft: Repressurized",
+   "FileName": "pneumaticcraft-repressurized-1.12.2-0.10.3-337.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 290612,
+   "FileID": 2691363,
+   "Name": "Primal Tech",
+   "FileName": "PrimalTech-0.3.4.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 247907,
+   "FileID": 2638197,
+   "Name": "PrimalCore",
+   "FileName": "PrimalCore-1.12.2-0.6.104.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 237701,
+   "FileID": 2560638,
+   "Name": "ReAuth",
+   "FileName": "reauth-3.6.0.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 237903,
+   "FileID": 2697453,
+   "Name": "Reborn Core",
+   "FileName": "RebornCore-1.12.2-3.13.12.447-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 70631,
+   "FileID": 2669254,
+   "Name": "Redstone Arsenal",
+   "FileName": "RedstoneArsenal-1.12.2-2.6.2.17-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 270789,
+   "FileID": 2623090,
+   "Name": "Redstone Flux",
+   "FileName": "RedstoneFlux-1.12-2.1.0.6-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 300750,
+   "FileID": 2695517,
+   "Name": "Redstone Repository Revolved",
+   "FileName": "RedstoneRepository-1.12.2-1.4.0-dev-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 226447,
+   "FileID": 2477566,
+   "Name": "Resource Loader",
+   "FileName": "ResourceLoader-MC1.12.1-1.5.3.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 303876,
+   "FileID": 2623013,
+   "Name": "Resource Reloader",
+   "FileName": "ResourceReloader-1.0.2.5.jar",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 224641,
+   "FileID": 2672513,
+   "Name": "RFTools",
+   "FileName": "rftools-1.12-7.61.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 250763,
+   "FileID": 2660164,
+   "Name": "RFTools Control",
+   "FileName": "rftoolsctrl-1.12-1.9.3.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 289242,
+   "FileID": 2698780,
+   "Name": "Sampler",
+   "FileName": "sampler-1.83.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 248453,
+   "FileID": 2640952,
+   "Name": "Shadowfacts' Forgelin",
+   "FileName": "Forgelin-1.8.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 239418,
+   "FileID": 2645156,
+   "Name": "Sonar Core",
+   "FileName": "sonarcore-1.12.2-5.0.19-20.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 277616,
+   "FileID": 2692785,
+   "Name": "Spice of Life: Carrot Edition",
+   "FileName": "solcarrot-1.12.2-1.6.3.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 223360,
+   "FileID": 2574253,
+   "Name": "Squake",
+   "FileName": "Squake-mc1.12.2-1.0.6.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 289115,
+   "FileID": 2696645,
+   "Name": "Stargate Network",
+   "FileName": "SGCraft-2.0.0-beta-4.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 253462,
+   "FileID": 2695453,
+   "Name": "Steve's Carts Reborn",
+   "FileName": "StevesCarts-1.12.2-2.4.30.134.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 229769,
+   "FileID": 2568464,
+   "Name": "Streams",
+   "FileName": "Streams-1.12-0.4.4.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 291568,
+   "FileID": 2585537,
+   "Name": "Subterranean Waters",
+   "FileName": "subh2o-1.12.2-1.5.6.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 264353,
+   "FileID": 2508268,
+   "Name": "SwingThroughGrass",
+   "FileName": "stg-1.12.2-1.2.3.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 233564,
+   "FileID": 2695216,
+   "Name": "Tech Reborn",
+   "FileName": "TechReborn-1.12.2-2.22.1.979-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 254602,
+   "FileID": 2580052,
+   "Name": "Tesla Core Lib",
+   "FileName": "tesla-core-lib-1.12.2-1.0.15.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 227443,
+   "FileID": 2669256,
+   "Name": "Thermal Dynamics",
+   "FileName": "ThermalDynamics-1.12.2-2.5.4.18-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 69163,
+   "FileID": 2669257,
+   "Name": "Thermal Expansion",
+   "FileName": "ThermalExpansion-1.12.2-5.5.3.41-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 222880,
+   "FileID": 2669258,
+   "Name": "Thermal Foundation",
+   "FileName": "ThermalFoundation-1.12.2-2.6.2.26-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 291737,
+   "FileID": 2669259,
+   "Name": "Thermal Innovation",
+   "FileName": "ThermalInnovation-1.12.2-0.3.2.11-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 313298,
+   "FileID": 2696956,
+   "Name": "ThermalLogistics",
+   "FileName": "thermallogistics-0.2-18.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 246391,
+   "FileID": 2661865,
+   "Name": "Tough As Nails",
+   "FileName": "ToughAsNails-1.12.2-3.1.0.140-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 293268,
+   "FileID": 2699483,
+   "Name": "Underground Biomes",
+   "FileName": "UndergroundBiomesConstructs-1.12-1.3.3.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 292785,
+   "FileID": 2639533,
+   "Name": "VanillaFix",
+   "FileName": "VanillaFix-1.0.10-99.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 284183,
+   "FileID": 2666185,
+   "Name": "WaitingTime",
+   "FileName": "WaitingTime-1.0.1.jar.disabled",
+   "CustomSide": 2
+  },
+  {
+   "ProjectID": 244559,
+   "FileID": 2654188,
+   "Name": "Wireless Crafting Terminal",
+   "FileName": "WirelessCraftingTerminal-1.12.2-3.11.88.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 299815,
+   "FileID": 2700492,
+   "Name": "Worley's Caves",
+   "FileName": "worleycaves-1.4.0.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 275153,
+   "FileID": 2486198,
+   "Name": "WrapUp",
+   "FileName": "WrapUp-1.12-1.1.3.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 263420,
+   "FileID": 2700318,
+   "Name": "Xaero's Minimap",
+   "FileName": "Xaeros_Minimap_1.16.4_Forge_1.12.jar",
+   "CustomSide": 2
+  }
+ ]
+}
