@@ -456,6 +456,13 @@
    "CustomSide": 0
   },
   {
+   "ProjectID": -1,
+   "FileID": -1,
+   "Name": "GT Classic",
+   "FileName": "GTClassic-0.0.1-pre-alpha-13.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 293536,
    "FileID": 2691117,
    "Name": "Hot or Not",
