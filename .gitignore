@@ -22,8 +22,6 @@ usernamecache.json
 *.exe
 Modlist Dumper.exe.config
 Modlist Dumper.pdb
-config/acronym/saved/material_parts_contenttweaker.json
-config/acronym/saved/material_parts_contenttweaker.json
 config/acronym/saved/saved_sub_blocks_contenttweaker.json
 config/acronym/saved/material_parts_contenttweaker.json
 config/AppliedEnergistics2/CustomRecipes.cfg
@@ -38,3 +36,6 @@ config/AppliedEnergistics2/CustomRecipes.cfg
 config/buildcraft/detailed.properties
 config/customloadingscreen_timings.nbt
 config/brandon3055/contributors.json
+*.class
+llibrary/config.dat
+config/XaeroWaypoints/Biome Bundle2/overworld/waypoints.txt

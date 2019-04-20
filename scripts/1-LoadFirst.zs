@@ -1,0 +1,1 @@
+//recipes.replaceAllOccurences(<rftools:machine_frame>, <thermalexpansion:frame>); //Replace AR basic circuits

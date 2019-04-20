@@ -57,10 +57,17 @@
    "CustomSide": 0
   },
   {
+   "ProjectID": 250577,
+   "FileID": 2648656,
+   "Name": "Akashic Tome",
+   "FileName": "AkashicTome-1.2-12.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 293425,
-   "FileID": 2700515,
+   "FileID": 2701122,
    "Name": "Alchemistry",
-   "FileName": "alchemistry-0.9.5.jar",
+   "FileName": "alchemistry-0.9.6.jar",
    "CustomSide": 0
   },
   {
@@ -92,6 +99,55 @@
    "CustomSide": 0
   },
   {
+   "ProjectID": 238534,
+   "FileID": 2666633,
+   "Name": "Armor Chroma",
+   "FileName": "armorchroma-1.12.2-1.4.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 313816,
+   "FileID": 2695618,
+   "Name": "Armor Toughness Bar",
+   "FileName": "toughnessbar-2.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 241721,
+   "FileID": 2699238,
+   "Name": "Astral Sorcery",
+   "FileName": "astralsorcery-1.12.2-1.10.15.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 250363,
+   "FileID": 2677092,
+   "Name": "AutoRegLib",
+   "FileName": "AutoRegLib-1.3-26.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 261348,
+   "FileID": 2660801,
+   "Name": "Avaritia 1.1x",
+   "FileName": "Avaritia-1.12.2-3.3.0.33-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 312149,
+   "FileID": 2666874,
+   "Name": "Avaritia IO",
+   "FileName": "avaritiaio-1.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 301144,
+   "FileID": 2605409,
+   "Name": "Avaritia Recipe Generator",
+   "FileName": "avaritiarecipemaker-1.0.0.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 246996,
    "FileID": 2680109,
    "Name": "B.A.S.E",
@@ -107,9 +163,9 @@
   },
   {
    "ProjectID": 319404,
-   "FileID": 2698991,
+   "FileID": 2700969,
    "Name": "Barrels, Drums, Storage & More",
-   "FileName": "BarrelsDrumsStorageAndMore-0.0.19.jar",
+   "FileName": "BarrelsDrumsStorageAndMore-0.0.21.jar",
    "CustomSide": 0
   },
   {
@@ -180,6 +236,20 @@
    "FileID": 2698688,
    "Name": "BNBGamingLib",
    "FileName": "BNBGamingLib-1.12.2-2.17.6.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 228525,
+   "FileID": 2683823,
+   "Name": "Bookshelf",
+   "FileName": "Bookshelf-1.12.2-2.3.577.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 225643,
+   "FileID": 2698039,
+   "Name": "Botania",
+   "FileName": "Botania r1.10-361.jar",
    "CustomSide": 0
   },
   {
@@ -309,6 +379,27 @@
    "CustomSide": 2
   },
   {
+   "ProjectID": 239286,
+   "FileID": 2700679,
+   "Name": "Cyclic",
+   "FileName": "Cyclic-1.12.2-1.19.4.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 242195,
+   "FileID": 2694889,
+   "Name": "Dark Utilities",
+   "FileName": "DarkUtils-1.12.2-1.8.226.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 233398,
+   "FileID": 2679493,
+   "Name": "Deep Resonance",
+   "FileName": "deepresonance-1.12-1.7.6.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 278385,
    "FileID": 2482543,
    "Name": "Diet Hoppers",
@@ -320,6 +411,13 @@
    "FileID": 2697295,
    "Name": "Draconic Evolution",
    "FileName": "Draconic-Evolution-1.12.2-2.3.21.342-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 227391,
+   "FileID": 2679741,
+   "Name": "ElecCore",
+   "FileName": "ElecCore-1.12.2-1.9.452.jar",
    "CustomSide": 0
   },
   {
@@ -358,6 +456,13 @@
    "CustomSide": 0
   },
   {
+   "ProjectID": 253077,
+   "FileID": 2675787,
+   "Name": "Eternal Singularity",
+   "FileName": "eternalsingularity-1.12.2-1.0.6.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 268387,
    "FileID": 2698394,
    "Name": "Extended Crafting",
@@ -369,6 +474,13 @@
    "FileID": 2678374,
    "Name": "Extra Utilities",
    "FileName": "extrautils2-1.12-1.9.9.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 308647,
+   "FileID": 2645626,
+   "Name": "Extra Utilities Fixes",
+   "FileName": "exutilfix-1.0.0.jar",
    "CustomSide": 0
   },
   {
@@ -421,6 +533,27 @@
    "CustomSide": 0
   },
   {
+   "ProjectID": -1,
+   "FileID": -1,
+   "Name": "Galacticraft Core",
+   "FileName": "GalacticraftCore-1.12.2-4.0.2.210.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": -1,
+   "FileID": -1,
+   "Name": "Galacticraft Planets",
+   "FileName": "Galacticraft-Planets-1.12.2-4.0.2.210.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 286116,
+   "FileID": 2647978,
+   "Name": "Galacticraft Tweaker",
+   "FileName": "GalacticraftTweaker-1.12.2-1.0.3.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 309756,
    "FileID": 2698379,
    "Name": "Gas Conduits",
@@ -456,6 +589,13 @@
    "CustomSide": 0
   },
   {
+   "ProjectID": 247401,
+   "FileID": 2693388,
+   "Name": "Hammer (Lib) Core",
+   "FileName": "HammerCore-1.12.2-2.0.4.4.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 293536,
    "FileID": 2691117,
    "Name": "Hot or Not",
@@ -477,6 +617,13 @@
    "CustomSide": 2
   },
   {
+   "ProjectID": 253449,
+   "FileID": 2568751,
+   "Name": "Hwyla",
+   "FileName": "Hwyla-1.8.26-B41_1.12.2.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 242942,
    "FileID": 2676069,
    "Name": "IC2 Classic",
@@ -491,10 +638,24 @@
    "CustomSide": 0
   },
   {
+   "ProjectID": 304040,
+   "FileID": 2635483,
+   "Name": "IC2C Addons",
+   "FileName": "ic2caddons-1.0.2.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 302906,
    "FileID": 2700052,
    "Name": "IC2C Extras",
    "FileName": "IC2CExtras-1.1.0-alpha-4.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 264231,
+   "FileID": 2693547,
+   "Name": "Ice and Fire:  Dragons in a whole new light!",
+   "FileName": "iceandfire-1.7.1-1.12.2.jar",
    "CustomSide": 0
   },
   {
@@ -523,6 +684,13 @@
    "FileID": 2699878,
    "Name": "Industrial Foregoing",
    "FileName": "industrialforegoing-1.12.2-1.12.12-236.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 316772,
+   "FileID": 2688528,
+   "Name": "Industrial Magic - TechReborn Crossover",
+   "FileName": "trm-b2.jar",
    "CustomSide": 0
   },
   {
@@ -561,6 +729,13 @@
    "CustomSide": 0
   },
   {
+   "ProjectID": 268610,
+   "FileID": 2649716,
+   "Name": "JAOPCASingularities",
+   "FileName": "JAOPCASingularities-1.12.2-2.2.0.9.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 248370,
    "FileID": 2490058,
    "Name": "JEI Bees",
@@ -582,6 +757,20 @@
    "CustomSide": 0
   },
   {
+   "ProjectID": 296289,
+   "FileID": 2626479,
+   "Name": "JustEnoughIDs",
+   "FileName": "JustEnoughIDs-1.0.2-26.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 318572,
+   "FileID": 2695792,
+   "Name": "JustEnoughIDs Integration (JEIDsI)",
+   "FileName": "jeidsi-1.2.1.29.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 226013,
    "FileID": 2680316,
    "Name": "Kitsu's ForgeCraft",
@@ -596,6 +785,13 @@
    "CustomSide": 0
   },
   {
+   "ProjectID": 283525,
+   "FileID": 2536205,
+   "Name": "LagGoggles",
+   "FileName": "LagGoggles-FORGE-1.12.2-4.1.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 263905,
    "FileID": 2553810,
    "Name": "Lapis Stays in the Enchanting Table",
@@ -607,6 +803,13 @@
    "FileID": 2696000,
    "Name": "LibVulpes",
    "FileName": "LibVulpes-1.12.2-0.4.0-54-universal.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 243298,
+   "FileID": 2685412,
+   "Name": "LLibrary",
+   "FileName": "llibrary-1.7.18-1.12.2.jar",
    "CustomSide": 0
   },
   {
@@ -680,6 +883,13 @@
    "CustomSide": 0
   },
   {
+   "ProjectID": -1,
+   "FileID": -1,
+   "Name": "Micdoodle Core",
+   "FileName": "MicdoodleCore-1.12.2-4.0.2.210.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 292992,
    "FileID": 2692698,
    "Name": "Modpack Configuration Checker",
@@ -698,6 +908,13 @@
    "FileID": 2574459,
    "Name": "More Bees",
    "FileName": "morebees-1.12.2-2.0.1.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 245287,
+   "FileID": 2658176,
+   "Name": "Morph-o-Tool",
+   "FileName": "Morph-o-Tool-1.2-21.jar",
    "CustomSide": 0
   },
   {
@@ -736,6 +953,13 @@
    "CustomSide": 0
   },
   {
+   "ProjectID": 254334,
+   "FileID": 2700961,
+   "Name": "OMLib",
+   "FileName": "omlib-1.12.2-3.1.0-223.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 265894,
    "FileID": 2542614,
    "Name": "Open Terrain Generator (OTG)",
@@ -754,6 +978,13 @@
    "FileID": 2699055,
    "Name": "OpenModsLib",
    "FileName": "OpenModsLib-1.12.2-0.12.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 224663,
+   "FileID": 2700964,
+   "Name": "OpenModularTurrets",
+   "FileName": "openmodularturrets-1.12.2-3.1.0-325.jar",
    "CustomSide": 0
   },
   {
@@ -792,6 +1023,13 @@
    "CustomSide": 0
   },
   {
+   "ProjectID": 59816,
+   "FileID": 2697894,
+   "Name": "Random Things",
+   "FileName": "RandomThings-MC1.12.2-4.2.7.1.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 237701,
    "FileID": 2560638,
    "Name": "ReAuth",
@@ -806,24 +1044,10 @@
    "CustomSide": 0
   },
   {
-   "ProjectID": 70631,
-   "FileID": 2669254,
-   "Name": "Redstone Arsenal",
-   "FileName": "RedstoneArsenal-1.12.2-2.6.2.17-universal.jar",
-   "CustomSide": 0
-  },
-  {
    "ProjectID": 270789,
    "FileID": 2623090,
    "Name": "Redstone Flux",
    "FileName": "RedstoneFlux-1.12-2.1.0.6-universal.jar",
-   "CustomSide": 0
-  },
-  {
-   "ProjectID": 300750,
-   "FileID": 2695517,
-   "Name": "Redstone Repository Revolved",
-   "FileName": "RedstoneRepository-1.12.2-1.4.0-dev-universal.jar",
    "CustomSide": 0
   },
   {
@@ -862,6 +1086,13 @@
    "CustomSide": 0
   },
   {
+   "ProjectID": 266784,
+   "FileID": 2662364,
+   "Name": "Scannable",
+   "FileName": "Scannable-MC1.12.2-1.6.3.24.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 248453,
    "FileID": 2640952,
    "Name": "Shadowfacts' Forgelin",
@@ -873,6 +1104,13 @@
    "FileID": 2645156,
    "Name": "Sonar Core",
    "FileName": "sonarcore-1.12.2-5.0.19-20.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 224301,
+   "FileID": 2686991,
+   "Name": "Special AI",
+   "FileName": "specialai-1.1.0_for_mc1.12.2.jar",
    "CustomSide": 0
   },
   {
@@ -891,9 +1129,9 @@
   },
   {
    "ProjectID": 289115,
-   "FileID": 2696645,
+   "FileID": 2700816,
    "Name": "Stargate Network",
-   "FileName": "SGCraft-2.0.0-beta-4.jar",
+   "FileName": "SGCraft-2.0.0-beta-5.jar",
    "CustomSide": 0
   },
   {
@@ -932,6 +1170,13 @@
    "CustomSide": 0
   },
   {
+   "ProjectID": 244201,
+   "FileID": 2662072,
+   "Name": "Techguns",
+   "FileName": "techguns-1.12.2-2.0.1.2_1.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 254602,
    "FileID": 2580052,
    "Name": "Tesla Core Lib",
@@ -939,38 +1184,45 @@
    "CustomSide": 0
   },
   {
-   "ProjectID": 227443,
-   "FileID": 2669256,
-   "Name": "Thermal Dynamics",
-   "FileName": "ThermalDynamics-1.12.2-2.5.4.18-universal.jar",
+   "ProjectID": 223628,
+   "FileID": 2629023,
+   "Name": "Thaumcraft",
+   "FileName": "Thaumcraft-1.12.2-6.1.BETA26.jar",
    "CustomSide": 0
   },
   {
-   "ProjectID": 69163,
-   "FileID": 2669257,
-   "Name": "Thermal Expansion",
-   "FileName": "ThermalExpansion-1.12.2-5.5.3.41-universal.jar",
+   "ProjectID": 232564,
+   "FileID": 2693525,
+   "Name": "Thaumic Additions: Reconstructed",
+   "FileName": "ThaumicAdditions-1.12.2-13r.jar",
    "CustomSide": 0
   },
   {
-   "ProjectID": 222880,
-   "FileID": 2669258,
-   "Name": "Thermal Foundation",
-   "FileName": "ThermalFoundation-1.12.2-2.6.2.26-universal.jar",
+   "ProjectID": 238003,
+   "FileID": 2559089,
+   "Name": "Thaumic Inventory Scanning (Thaumcraft Addon)",
+   "FileName": "ThaumicInventoryScanning_1.12.2-2.0.10.jar",
    "CustomSide": 0
   },
   {
-   "ProjectID": 291737,
-   "FileID": 2669259,
-   "Name": "Thermal Innovation",
-   "FileName": "ThermalInnovation-1.12.2-0.3.2.11-universal.jar",
+   "ProjectID": 285492,
+   "FileID": 2696428,
+   "Name": "Thaumic JEI",
+   "FileName": "ThaumicJEI-1.12.2-1.5.8-26.jar",
    "CustomSide": 0
   },
   {
-   "ProjectID": 313298,
-   "FileID": 2696956,
-   "Name": "ThermalLogistics",
-   "FileName": "thermallogistics-0.2-18.jar",
+   "ProjectID": 75598,
+   "FileID": 2596484,
+   "Name": "Thaumic Tinkerer",
+   "FileName": "thaumictinkerer-1.12.2-5.0-353c71c.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 245211,
+   "FileID": 2667280,
+   "Name": "The One Probe",
+   "FileName": "theoneprobe-1.12-1.4.28.jar",
    "CustomSide": 0
   },
   {
@@ -988,6 +1240,13 @@
    "CustomSide": 0
   },
   {
+   "ProjectID": 247111,
+   "FileID": 2698796,
+   "Name": "TOP Addons",
+   "FileName": "topaddons-1.12.2-1.11.0.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 246391,
    "FileID": 2661865,
    "Name": "Tough As Nails",
@@ -1002,6 +1261,13 @@
    "CustomSide": 0
   },
   {
+   "ProjectID": 286230,
+   "FileID": 2572528,
+   "Name": "Unloader",
+   "FileName": "unloader-1.2.0.jar",
+   "CustomSide": 0
+  },
+  {
    "ProjectID": 292785,
    "FileID": 2639533,
    "Name": "VanillaFix",
@@ -1009,11 +1275,25 @@
    "CustomSide": 0
   },
   {
-   "ProjectID": 284183,
-   "FileID": 2666185,
-   "Name": "WaitingTime",
-   "FileName": "WaitingTime-1.0.1.jar.disabled",
-   "CustomSide": 2
+   "ProjectID": 79287,
+   "FileID": 2481605,
+   "Name": "Waila Harvestability",
+   "FileName": "WailaHarvestability-mc1.12-1.1.12.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 253043,
+   "FileID": 2651482,
+   "Name": "WanionLib",
+   "FileName": "WanionLib-1.12.2-2.2.jar",
+   "CustomSide": 0
+  },
+  {
+   "ProjectID": 224712,
+   "FileID": 2667771,
+   "Name": "Wawla - What Are We Looking At",
+   "FileName": "Wawla-1.12.2-2.5.270.jar",
+   "CustomSide": 0
   },
   {
    "ProjectID": 244559,

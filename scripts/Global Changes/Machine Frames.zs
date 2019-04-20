@@ -1,0 +1,1 @@
+mods.buildcraft.AssemblyTable.addRecipe(<teslacorelib:machine_case>, 400000, [<minecraft:stone>, <ore:dustStone> * 8, <forestry:chipsets>.withTag({T: 0 as short}), <ore:gearSilver>, <buildcraftsilicon:redstone_chipset>]);
