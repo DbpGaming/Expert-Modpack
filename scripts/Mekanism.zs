@@ -1,5 +1,9 @@
 mods.mekanism.infuser.removeRecipe(<mekanism:controlcircuit>);
 recipes.remove(<mekanism:controlcircuit:1>);
+recipes.remove(<mekanism:controlcircuit:2>);
 
 recipes.addShaped(<mekanism:controlcircuit:1>, [[<buildcraftsilicon:redstone_chipset:1>, <forestry:chipsets:1>, <buildcraftsilicon:redstone_chipset:1>],[<enderio:item_capacitor_silver>, <ic2:itemmisc:452>, <enderio:item_capacitor_silver>], [<buildcraftsilicon:redstone_chipset:1>, <forestry:chipsets:1>, <buildcraftsilicon:redstone_chipset:1>]]);
 recipes.addShaped(<mekanism:controlcircuit:1>, [[<buildcraftsilicon:redstone_chipset:1>, <enderio:item_capacitor_silver>, <buildcraftsilicon:redstone_chipset:1>],[<forestry:chipsets:1>, <ic2:itemmisc:452>, <forestry:chipsets:1>], [<buildcraftsilicon:redstone_chipset:1>, <enderio:item_capacitor_silver>, <buildcraftsilicon:redstone_chipset:1>]]);
+recipes.addShaped(<mekanism:controlcircuit:2>, [[<buildcraftsilicon:redstone_chipset:2>, <enderio:item_basic_capacitor:1>, <forestry:thermionic_tubes:7>],[<forestry:chipsets:2>, <techreborn:part:1>, <forestry:chipsets:2>], [<forestry:thermionic_tubes:7>, <enderio:item_capacitor_energetic_silver>, <buildcraftsilicon:redstone_chipset:2>]]);
+recipes.addShaped(<mekanism:controlcircuit>, [[<buildcraftsilicon:redstone_chipset>, <gtclassic:basic_capacitor>, <buildcraftsilicon:redstone_chipset>],[<forestry:chipsets>, <ic2:itemmisc:451>, <forestry:chipsets>], [<buildcraftsilicon:redstone_chipset>, <gtclassic:basic_capacitor>, <buildcraftsilicon:redstone_chipset>]]);
+recipes.addShaped(<mekanism:controlcircuit>, [[<buildcraftsilicon:redstone_chipset>, <forestry:chipsets>, <buildcraftsilicon:redstone_chipset>],[<gtclassic:basic_capacitor>, <ic2:itemmisc:451>, <gtclassic:basic_capacitor>], [<buildcraftsilicon:redstone_chipset>, <forestry:chipsets>, <buildcraftsilicon:redstone_chipset>]]);

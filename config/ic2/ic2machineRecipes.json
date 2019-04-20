@@ -1304,8 +1304,8 @@
   "ic2exprecipe_Dense Amber Plate_": true,
   "ic2exprecipe_Dense Aquamarine Plate_": true,
   "?r?bHigh Quality Hemp Oil": true,
-  "§r§bHigh Quality Hemp Oil": true,
-  "uraniumrodcompressing": true
+  "uraniumrodcompressing": true,
+  "§r§bHigh Quality Hemp Oil": true
  },
  "massfabricatorAmplifier": {
   "ScrapAmplifier": true,
@@ -2947,7 +2947,10 @@
   "ingotRecycling_ingotAdaminite": true,
   "ingotRecycling_ingotMithminite": true,
   "ingotRecycling_ingotEnergeticSteel": true,
-  "ingotRecycling_ingotCrystal_water": true
+  "ingotRecycling_ingotCrystal_water": true,
+  "ingotRecycling_ingotCrystalMatrix": true,
+  "ingotRecycling_ingotCosmicNeutronium": true,
+  "ingotRecycling_ingotInfinity": true
  },
  "sawmill": {
   "Oak Wood Planks": true,
