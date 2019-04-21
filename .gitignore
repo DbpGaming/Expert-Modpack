@@ -39,3 +39,5 @@ config/brandon3055/contributors.json
 *.class
 llibrary/config.dat
 config/XaeroWaypoints/Biome Bundle2/overworld/waypoints.txt
+WailaErrorOutput.txt
+config/buildcraft/gui.json

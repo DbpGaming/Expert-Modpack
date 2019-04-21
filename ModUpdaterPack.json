@@ -380,9 +380,9 @@
   },
   {
    "ProjectID": 239286,
-   "FileID": 2700679,
+   "FileID": 2701557,
    "Name": "Cyclic",
-   "FileName": "Cyclic-1.12.2-1.19.4.jar",
+   "FileName": "Cyclic-1.12.2-1.19.5.jar",
    "CustomSide": 0
   },
   {
@@ -856,16 +856,16 @@
   },
   {
    "ProjectID": 268560,
-   "FileID": 2699534,
+   "FileID": 2701541,
    "Name": "Mekanism",
-   "FileName": "Mekanism-1.12.2-9.7.1.371.jar",
+   "FileName": "Mekanism-1.12.2-9.7.2.373.jar",
    "CustomSide": 0
   },
   {
    "ProjectID": 268566,
-   "FileID": 2699536,
+   "FileID": 2701543,
    "Name": "Mekanism Generators",
-   "FileName": "MekanismGenerators-1.12.2-9.7.1.371.jar",
+   "FileName": "MekanismGenerators-1.12.2-9.7.2.373.jar",
    "CustomSide": 0
   },
   {
